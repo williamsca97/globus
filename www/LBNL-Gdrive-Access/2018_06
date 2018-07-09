@@ -1,0 +1,569 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Endpoint Usage Report</title>
+<style type="text/css">td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<a href=".."><-- main menu</a><br />
+<a href="../LBNL-Gdrive-Access"><-- LBNL Gdrive Access menu</a><br />
+<h2>June 2018 monthly summary for Globus endpoint "LBNL Gdrive Access" (d0774b60-2549-11e7-bc62-22000b9a448b):</h2>
+
+<hr />
+
+<h3>Overall usage:</h3>
+
+<table>
+<tr>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>63</td>
+<td>6397</td>
+<td>456478543304</td>
+</tr>
+</table>
+
+
+<hr />
+
+<h3>Usage by unique user:</h3>
+
+<table>
+<tr>
+<th>User</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>bfriesen@lbl.gov</td>
+<td>1</td>
+<td>1</td>
+<td>9578640</td>
+</tr>
+<tr>
+<td>jbei@globusid.org</td>
+<td>5</td>
+<td>38</td>
+<td>3851980860</td>
+</tr>
+<tr>
+<td>meli@lbl.gov</td>
+<td>40</td>
+<td>2185</td>
+<td>34495188981</td>
+</tr>
+<tr>
+<td>mldillon@lbl.gov</td>
+<td>1</td>
+<td>27</td>
+<td>375483483361</td>
+</tr>
+<tr>
+<td>sjames@globusid.org</td>
+<td>12</td>
+<td>101</td>
+<td>26939759819</td>
+</tr>
+<tr>
+<td>xiewei@berkeley.edu</td>
+<td>4</td>
+<td>4045</td>
+<td>15698551643</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/user_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/user_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/user_bytes.png" />
+
+<hr />
+
+<h3>Usage by direction:</h3>
+
+<table>
+<tr>
+<th>Direction</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>unknown</td>
+<td>63</td>
+<td>6397</td>
+<td>456478543304</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/direction_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/direction_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/direction_bytes.png" />
+
+<hr />
+
+<h3>Usage by target:</h3>
+
+<table>
+<tr>
+<th>Target</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>meli_gdrive (0e3f899e-7571-11e8-93c3-0a6d4e044368)</td>
+<td>12</td>
+<td>202</td>
+<td>10156865</td>
+</tr>
+<tr>
+<td>meli_gdrive (1232d952-375a-11e8-b96a-0ac6873fc732)</td>
+<td>17</td>
+<td>1766</td>
+<td>7671336500</td>
+</tr>
+<tr>
+<td>MD_LBL_GDrive (2170760a-7af7-11e8-9443-0a6d4e044368)</td>
+<td>1</td>
+<td>27</td>
+<td>375483483361</td>
+</tr>
+<tr>
+<td>LBLGoogleDrive (25c3b9e6-6658-11e8-9270-0a6d4e044368)</td>
+<td>1</td>
+<td>1</td>
+<td>23781</td>
+</tr>
+<tr>
+<td>jbei#smb (89ace61a-7a5f-11e8-9434-0a6d4e044368)</td>
+<td>5</td>
+<td>38</td>
+<td>3851980860</td>
+</tr>
+<tr>
+<td>sjames-gdrive (9b752496-2304-11e8-b768-0ac6873fc732)</td>
+<td>11</td>
+<td>100</td>
+<td>21571050699</td>
+</tr>
+<tr>
+<td>lbnl#lrc (b2e0c23d-6d04-11e5-ba46-22000b92c6ec)</td>
+<td>10</td>
+<td>218</td>
+<td>32182404736</td>
+</tr>
+<tr>
+<td>detdata (c83ab920-763c-11e7-8b60-22000b9923ef)</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>XSEDE TACC stampede2 (ceea5ca0-89a9-11e7-a97f-22000a92523b)</td>
+<td>3</td>
+<td>4044</td>
+<td>15698527862</td>
+</tr>
+<tr>
+<td>LBNL Google Drive (fbf4275c-b4e8-11e7-b0b7-22000a92523b)</td>
+<td>1</td>
+<td>1</td>
+<td>9578640</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/target_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/target_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/target_bytes.png" />
+
+<hr />
+
+<h3>Usage by transfer path:</h3>
+
+<table>
+<tr>
+<th>Transfer Path</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>meli_gdrive --> unknown</td>
+<td>1</td>
+<td>10</td>
+<td>2097152000</td>
+</tr>
+<tr>
+<td>LBLGoogleDrive --> unknown</td>
+<td>1</td>
+<td>1</td>
+<td>23781</td>
+</tr>
+<tr>
+<td>jbei#smb --> Google Drive</td>
+<td>5</td>
+<td>38</td>
+<td>3851980860</td>
+</tr>
+<tr>
+<td>sjames-gdrive --> lbnl#lrc</td>
+<td>1</td>
+<td>1</td>
+<td>5368709120</td>
+</tr>
+<tr>
+<td>sjames-gdrive --> unknown</td>
+<td>1</td>
+<td>1</td>
+<td>5368709120</td>
+</tr>
+<tr>
+<td>lbnl#lrc --> meli_gdrive</td>
+<td>9</td>
+<td>217</td>
+<td>26813695616</td>
+</tr>
+<tr>
+<td>lbnl#lrc --> sjames-gdrive</td>
+<td>1</td>
+<td>1</td>
+<td>5368709120</td>
+</tr>
+<tr>
+<td>detdata --> meli_gdrive</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>XSEDE TACC stampede2 --> LBLGoogleDrive</td>
+<td>3</td>
+<td>4044</td>
+<td>15698527862</td>
+</tr>
+<tr>
+<td>LBNL Google Drive --> unknown</td>
+<td>1</td>
+<td>1</td>
+<td>9578640</td>
+</tr>
+<tr>
+<td>unknown --> meli_gdrive</td>
+<td>12</td>
+<td>202</td>
+<td>10156865</td>
+</tr>
+<tr>
+<td>unknown --> meli_gdrive</td>
+<td>16</td>
+<td>1756</td>
+<td>5574184500</td>
+</tr>
+<tr>
+<td>unknown --> MD_LBL_GDrive</td>
+<td>1</td>
+<td>27</td>
+<td>375483483361</td>
+</tr>
+<tr>
+<td>unknown --> sjames-gdrive</td>
+<td>9</td>
+<td>98</td>
+<td>10833632459</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/transfer path_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/transfer path_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/transfer path_bytes.png" />
+
+<hr />
+
+<h3>Usage by request date:</h3>
+
+<table>
+<tr>
+<th>Request date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-02</td>
+<td>4</td>
+<td>4045</td>
+<td>15698551643</td>
+</tr>
+<tr>
+<td>2018-6-04</td>
+<td>6</td>
+<td>40</td>
+<td>8388608000</td>
+</tr>
+<tr>
+<td>2018-6-08</td>
+<td>1</td>
+<td>1</td>
+<td>9578640</td>
+</tr>
+<tr>
+<td>2018-6-11</td>
+<td>12</td>
+<td>101</td>
+<td>26939759819</td>
+</tr>
+<tr>
+<td>2018-6-12</td>
+<td>17</td>
+<td>1943</td>
+<td>26096424116</td>
+</tr>
+<tr>
+<td>2018-6-20</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2018-6-27</td>
+<td>1</td>
+<td>22</td>
+<td>1258962010</td>
+</tr>
+<tr>
+<td>2018-6-28</td>
+<td>15</td>
+<td>237</td>
+<td>376790149651</td>
+</tr>
+<tr>
+<td>2018-6-29</td>
+<td>2</td>
+<td>8</td>
+<td>1296509425</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/request date_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/request date_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/request date_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion date:</h3>
+
+<table>
+<tr>
+<th>Completion date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-02</td>
+<td>4</td>
+<td>4045</td>
+<td>15698551643</td>
+</tr>
+<tr>
+<td>2018-6-04</td>
+<td>6</td>
+<td>40</td>
+<td>8388608000</td>
+</tr>
+<tr>
+<td>2018-6-08</td>
+<td>1</td>
+<td>1</td>
+<td>9578640</td>
+</tr>
+<tr>
+<td>2018-6-11</td>
+<td>11</td>
+<td>101</td>
+<td>26939759819</td>
+</tr>
+<tr>
+<td>2018-6-12</td>
+<td>18</td>
+<td>1943</td>
+<td>26096424116</td>
+</tr>
+<tr>
+<td>2018-6-20</td>
+<td>5</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2018-6-28</td>
+<td>14</td>
+<td>232</td>
+<td>2565628300</td>
+</tr>
+<tr>
+<td>2018-6-29</td>
+<td>4</td>
+<td>35</td>
+<td>376779992786</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/completion date_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/completion date_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/completion date_bytes.png" />
+
+<hr />
+
+<h3>Usage by request hour:</h3>
+
+<table>
+<tr>
+<th>Request hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>00</td>
+<td>1</td>
+<td>8</td>
+<td>1296509425</td>
+</tr>
+<tr>
+<td>11</td>
+<td>4</td>
+<td>4045</td>
+<td>15698551643</td>
+</tr>
+<tr>
+<td>17</td>
+<td>2</td>
+<td>27</td>
+<td>375483483361</td>
+</tr>
+<tr>
+<td>18</td>
+<td>4</td>
+<td>615</td>
+<td>1030048756</td>
+</tr>
+<tr>
+<td>19</td>
+<td>7</td>
+<td>721</td>
+<td>329831744</td>
+</tr>
+<tr>
+<td>20</td>
+<td>12</td>
+<td>51</td>
+<td>18275047921</td>
+</tr>
+<tr>
+<td>21</td>
+<td>11</td>
+<td>651</td>
+<td>16137491664</td>
+</tr>
+<tr>
+<td>22</td>
+<td>15</td>
+<td>252</td>
+<td>5484201660</td>
+</tr>
+<tr>
+<td>23</td>
+<td>7</td>
+<td>27</td>
+<td>22743377130</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/request hour_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/request hour_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/request hour_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion hour:</h3>
+
+<table>
+<tr>
+<th>Completion hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>00</td>
+<td>1</td>
+<td>22</td>
+<td>1258962010</td>
+</tr>
+<tr>
+<td>11</td>
+<td>3</td>
+<td>2</td>
+<td>23050458</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1</td>
+<td>4043</td>
+<td>15675501185</td>
+</tr>
+<tr>
+<td>16</td>
+<td>1</td>
+<td>8</td>
+<td>1296509425</td>
+</tr>
+<tr>
+<td>18</td>
+<td>4</td>
+<td>615</td>
+<td>1030048756</td>
+</tr>
+<tr>
+<td>19</td>
+<td>3</td>
+<td>299</td>
+<td>146896041</td>
+</tr>
+<tr>
+<td>20</td>
+<td>13</td>
+<td>472</td>
+<td>13089274504</td>
+</tr>
+<tr>
+<td>21</td>
+<td>11</td>
+<td>641</td>
+<td>396988373922</td>
+</tr>
+<tr>
+<td>22</td>
+<td>15</td>
+<td>290</td>
+<td>5485511883</td>
+</tr>
+<tr>
+<td>23</td>
+<td>11</td>
+<td>5</td>
+<td>21484415120</td>
+</tr>
+</table>
+
+
+<img src="../images/LBNL-Gdrive-Access/2018/06/completion hour_tasks.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/completion hour_files.png" /><img src="../images/LBNL-Gdrive-Access/2018/06/completion hour_bytes.png" />
+
+<hr />
+
+<p>Copyright &copy; Connor Williams, 2018. All rights reserved.</p></body>
+</html>

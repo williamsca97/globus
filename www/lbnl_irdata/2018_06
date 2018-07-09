@@ -1,0 +1,215 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Endpoint Usage Report</title>
+<style type="text/css">td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<a href=".."><-- main menu</a><br />
+<a href="../lbnl_irdata"><-- lbnl#irdata menu</a><br />
+<h2>June 2018 monthly summary for Globus endpoint "lbnl#irdata" (9674ec8a-6920-11e8-9294-0a6d4e044368):</h2>
+
+<hr />
+
+<h3>Overall usage:</h3>
+
+<table>
+<tr>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<hr />
+
+<h3>Usage by unique user:</h3>
+
+<table>
+<tr>
+<th>User</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>jscoggins@globusid.org</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/user_tasks.png" /><img src="../images/lbnl_irdata/2018/06/user_files.png" /><img src="../images/lbnl_irdata/2018/06/user_bytes.png" />
+
+<hr />
+
+<h3>Usage by direction:</h3>
+
+<table>
+<tr>
+<th>Direction</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>inbound</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/direction_tasks.png" /><img src="../images/lbnl_irdata/2018/06/direction_files.png" /><img src="../images/lbnl_irdata/2018/06/direction_bytes.png" />
+
+<hr />
+
+<h3>Usage by target:</h3>
+
+<table>
+<tr>
+<th>Target</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>lbnl#lrc (b2e0c23d-6d04-11e5-ba46-22000b92c6ec)</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/target_tasks.png" /><img src="../images/lbnl_irdata/2018/06/target_files.png" /><img src="../images/lbnl_irdata/2018/06/target_bytes.png" />
+
+<hr />
+
+<h3>Usage by transfer path:</h3>
+
+<table>
+<tr>
+<th>Transfer Path</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>lbnl#lrc --> lbnl#irdata</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/transfer path_tasks.png" /><img src="../images/lbnl_irdata/2018/06/transfer path_files.png" /><img src="../images/lbnl_irdata/2018/06/transfer path_bytes.png" />
+
+<hr />
+
+<h3>Usage by request date:</h3>
+
+<table>
+<tr>
+<th>Request date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-07</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/request date_tasks.png" /><img src="../images/lbnl_irdata/2018/06/request date_files.png" /><img src="../images/lbnl_irdata/2018/06/request date_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion date:</h3>
+
+<table>
+<tr>
+<th>Completion date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-07</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/completion date_tasks.png" /><img src="../images/lbnl_irdata/2018/06/completion date_files.png" /><img src="../images/lbnl_irdata/2018/06/completion date_bytes.png" />
+
+<hr />
+
+<h3>Usage by request hour:</h3>
+
+<table>
+<tr>
+<th>Request hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>20</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/request hour_tasks.png" /><img src="../images/lbnl_irdata/2018/06/request hour_files.png" /><img src="../images/lbnl_irdata/2018/06/request hour_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion hour:</h3>
+
+<table>
+<tr>
+<th>Completion hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>20</td>
+<td>1</td>
+<td>1</td>
+<td>11459</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_irdata/2018/06/completion hour_tasks.png" /><img src="../images/lbnl_irdata/2018/06/completion hour_files.png" /><img src="../images/lbnl_irdata/2018/06/completion hour_bytes.png" />
+
+<hr />
+
+<p>Copyright &copy; Connor Williams, 2018. All rights reserved.</p></body>
+</html>

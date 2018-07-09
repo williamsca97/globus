@@ -1,0 +1,377 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Endpoint Usage Report</title>
+<style type="text/css">td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<a href=".."><-- main menu</a><br />
+<a href="../lbnl_ares"><-- lbnl#ares menu</a><br />
+<h2>May 2018 monthly summary for Globus endpoint "lbnl#ares" (dd1ee755-6d04-11e5-ba46-22000b92c6ec):</h2>
+
+<hr />
+
+<h3>Overall usage:</h3>
+
+<table>
+<tr>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>10</td>
+<td>39</td>
+<td>8207132008906</td>
+</tr>
+</table>
+
+
+<hr />
+
+<h3>Usage by unique user:</h3>
+
+<table>
+<tr>
+<th>User</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>freereb@ornl.gov</td>
+<td>8</td>
+<td>38</td>
+<td>8195084575168</td>
+</tr>
+<tr>
+<td>nicholsonad@ornl.gov</td>
+<td>2</td>
+<td>1</td>
+<td>12047433738</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/user_tasks.png" /><img src="../images/lbnl_ares/2018/05/user_files.png" /><img src="../images/lbnl_ares/2018/05/user_bytes.png" />
+
+<hr />
+
+<h3>Usage by direction:</h3>
+
+<table>
+<tr>
+<th>Direction</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>inbound</td>
+<td>10</td>
+<td>39</td>
+<td>8207132008906</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/direction_tasks.png" /><img src="../images/lbnl_ares/2018/05/direction_files.png" /><img src="../images/lbnl_ares/2018/05/direction_bytes.png" />
+
+<hr />
+
+<h3>Usage by target:</h3>
+
+<table>
+<tr>
+<th>Target</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>CADES-OR (57230a10-7ba2-11e7-8c3b-22000b9923ef)</td>
+<td>2</td>
+<td>1</td>
+<td>12047433738</td>
+</tr>
+<tr>
+<td>MINOS-OR (c3db4076-32a1-11e8-b90e-0ac6873fc732)</td>
+<td>8</td>
+<td>38</td>
+<td>8195084575168</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/target_tasks.png" /><img src="../images/lbnl_ares/2018/05/target_files.png" /><img src="../images/lbnl_ares/2018/05/target_bytes.png" />
+
+<hr />
+
+<h3>Usage by transfer path:</h3>
+
+<table>
+<tr>
+<th>Transfer Path</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>CADES-OR --> lbnl#ares</td>
+<td>2</td>
+<td>1</td>
+<td>12047433738</td>
+</tr>
+<tr>
+<td>MINOS-OR --> lbnl#ares</td>
+<td>8</td>
+<td>38</td>
+<td>8195084575168</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/transfer path_tasks.png" /><img src="../images/lbnl_ares/2018/05/transfer path_files.png" /><img src="../images/lbnl_ares/2018/05/transfer path_bytes.png" />
+
+<hr />
+
+<h3>Usage by request date:</h3>
+
+<table>
+<tr>
+<th>Request date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-5-01</td>
+<td>2</td>
+<td>16</td>
+<td>1241800343429</td>
+</tr>
+<tr>
+<td>2018-5-07</td>
+<td>2</td>
+<td>8</td>
+<td>2778332048796</td>
+</tr>
+<tr>
+<td>2018-5-11</td>
+<td>1</td>
+<td>2</td>
+<td>90328397</td>
+</tr>
+<tr>
+<td>2018-5-12</td>
+<td>1</td>
+<td>2</td>
+<td>282659595166</td>
+</tr>
+<tr>
+<td>2018-5-14</td>
+<td>1</td>
+<td>2</td>
+<td>336265968</td>
+</tr>
+<tr>
+<td>2018-5-21</td>
+<td>2</td>
+<td>1</td>
+<td>12047433738</td>
+</tr>
+<tr>
+<td>2018-5-23</td>
+<td>1</td>
+<td>8</td>
+<td>3891865993412</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/request date_tasks.png" /><img src="../images/lbnl_ares/2018/05/request date_files.png" /><img src="../images/lbnl_ares/2018/05/request date_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion date:</h3>
+
+<table>
+<tr>
+<th>Completion date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-5-01</td>
+<td>2</td>
+<td>16</td>
+<td>1241800343429</td>
+</tr>
+<tr>
+<td>2018-5-07</td>
+<td>1</td>
+<td>4</td>
+<td>4267</td>
+</tr>
+<tr>
+<td>2018-5-08</td>
+<td>1</td>
+<td>4</td>
+<td>2778332044529</td>
+</tr>
+<tr>
+<td>2018-5-11</td>
+<td>1</td>
+<td>2</td>
+<td>90328397</td>
+</tr>
+<tr>
+<td>2018-5-12</td>
+<td>1</td>
+<td>2</td>
+<td>282659595166</td>
+</tr>
+<tr>
+<td>2018-5-14</td>
+<td>1</td>
+<td>2</td>
+<td>336265968</td>
+</tr>
+<tr>
+<td>2018-5-21</td>
+<td>2</td>
+<td>1</td>
+<td>12047433738</td>
+</tr>
+<tr>
+<td>2018-5-24</td>
+<td>1</td>
+<td>8</td>
+<td>3891865993412</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/completion date_tasks.png" /><img src="../images/lbnl_ares/2018/05/completion date_files.png" /><img src="../images/lbnl_ares/2018/05/completion date_bytes.png" />
+
+<hr />
+
+<h3>Usage by request hour:</h3>
+
+<table>
+<tr>
+<th>Request hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>00</td>
+<td>2</td>
+<td>16</td>
+<td>1241800343429</td>
+</tr>
+<tr>
+<td>01</td>
+<td>1</td>
+<td>2</td>
+<td>282659595166</td>
+</tr>
+<tr>
+<td>14</td>
+<td>1</td>
+<td>8</td>
+<td>3891865993412</td>
+</tr>
+<tr>
+<td>17</td>
+<td>2</td>
+<td>8</td>
+<td>2778332048796</td>
+</tr>
+<tr>
+<td>20</td>
+<td>3</td>
+<td>3</td>
+<td>12383699706</td>
+</tr>
+<tr>
+<td>23</td>
+<td>1</td>
+<td>2</td>
+<td>90328397</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/request hour_tasks.png" /><img src="../images/lbnl_ares/2018/05/request hour_files.png" /><img src="../images/lbnl_ares/2018/05/request hour_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion hour:</h3>
+
+<table>
+<tr>
+<th>Completion hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>00</td>
+<td>1</td>
+<td>8</td>
+<td>3891865993412</td>
+</tr>
+<tr>
+<td>01</td>
+<td>1</td>
+<td>8</td>
+<td>387272970737</td>
+</tr>
+<tr>
+<td>02</td>
+<td>2</td>
+<td>10</td>
+<td>1137186967858</td>
+</tr>
+<tr>
+<td>03</td>
+<td>1</td>
+<td>4</td>
+<td>2778332044529</td>
+</tr>
+<tr>
+<td>17</td>
+<td>1</td>
+<td>4</td>
+<td>4267</td>
+</tr>
+<tr>
+<td>20</td>
+<td>3</td>
+<td>3</td>
+<td>12383699706</td>
+</tr>
+<tr>
+<td>23</td>
+<td>1</td>
+<td>2</td>
+<td>90328397</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/05/completion hour_tasks.png" /><img src="../images/lbnl_ares/2018/05/completion hour_files.png" /><img src="../images/lbnl_ares/2018/05/completion hour_bytes.png" />
+
+<hr />
+
+<p>Copyright &copy; Connor Williams, 2018. All rights reserved.</p></body>
+</html>

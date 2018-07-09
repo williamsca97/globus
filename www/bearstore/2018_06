@@ -1,0 +1,353 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Endpoint Usage Report</title>
+<style type="text/css">td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<a href=".."><-- main menu</a><br />
+<a href="../bearstore"><-- bearstore menu</a><br />
+<h2>June 2018 monthly summary for Globus endpoint "bearstore" (3e3352d0-115e-11e6-a749-22000bf2d559):</h2>
+
+<hr />
+
+<h3>Overall usage:</h3>
+
+<table>
+<tr>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>8</td>
+<td>190949</td>
+<td>39462355852797</td>
+</tr>
+</table>
+
+
+<hr />
+
+<h3>Usage by unique user:</h3>
+
+<table>
+<tr>
+<th>User</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>jbajo-franklin@lbl.gov</td>
+<td>8</td>
+<td>190949</td>
+<td>39462355852797</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/user_tasks.png" /><img src="../images/bearstore/2018/06/user_files.png" /><img src="../images/bearstore/2018/06/user_bytes.png" />
+
+<hr />
+
+<h3>Usage by direction:</h3>
+
+<table>
+<tr>
+<th>Direction</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>inbound</td>
+<td>6</td>
+<td>120134</td>
+<td>39205713552221</td>
+</tr>
+<tr>
+<td>outbound</td>
+<td>2</td>
+<td>70815</td>
+<td>256642300576</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/direction_tasks.png" /><img src="../images/bearstore/2018/06/direction_files.png" /><img src="../images/bearstore/2018/06/direction_bytes.png" />
+
+<hr />
+
+<h3>Usage by target:</h3>
+
+<table>
+<tr>
+<th>Target</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>unknown</td>
+<td>8</td>
+<td>190949</td>
+<td>39462355852797</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/target_tasks.png" /><img src="../images/bearstore/2018/06/target_files.png" /><img src="../images/bearstore/2018/06/target_bytes.png" />
+
+<hr />
+
+<h3>Usage by transfer path:</h3>
+
+<table>
+<tr>
+<th>Transfer Path</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>bearstore --> unknown</td>
+<td>2</td>
+<td>70815</td>
+<td>256642300576</td>
+</tr>
+<tr>
+<td>unknown --> bearstore</td>
+<td>6</td>
+<td>120134</td>
+<td>39205713552221</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/transfer path_tasks.png" /><img src="../images/bearstore/2018/06/transfer path_files.png" /><img src="../images/bearstore/2018/06/transfer path_bytes.png" />
+
+<hr />
+
+<h3>Usage by request date:</h3>
+
+<table>
+<tr>
+<th>Request date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-06</td>
+<td>2</td>
+<td>102359</td>
+<td>8257454269088</td>
+</tr>
+<tr>
+<td>2018-6-07</td>
+<td>2</td>
+<td>20424</td>
+<td>8000991381712</td>
+</tr>
+<tr>
+<td>2018-6-11</td>
+<td>1</td>
+<td>24550</td>
+<td>8000610484224</td>
+</tr>
+<tr>
+<td>2018-6-27</td>
+<td>1</td>
+<td>11567</td>
+<td>4534087159808</td>
+</tr>
+<tr>
+<td>2018-6-28</td>
+<td>1</td>
+<td>13668</td>
+<td>3466929094656</td>
+</tr>
+<tr>
+<td>2018-6-29</td>
+<td>1</td>
+<td>18381</td>
+<td>7202283463309</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/request date_tasks.png" /><img src="../images/bearstore/2018/06/request date_files.png" /><img src="../images/bearstore/2018/06/request date_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion date:</h3>
+
+<table>
+<tr>
+<th>Completion date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-07</td>
+<td>3</td>
+<td>102359</td>
+<td>8257454269088</td>
+</tr>
+<tr>
+<td>2018-6-09</td>
+<td>1</td>
+<td>20424</td>
+<td>8000991381712</td>
+</tr>
+<tr>
+<td>2018-6-13</td>
+<td>1</td>
+<td>24550</td>
+<td>8000610484224</td>
+</tr>
+<tr>
+<td>2018-6-28</td>
+<td>1</td>
+<td>11567</td>
+<td>4534087159808</td>
+</tr>
+<tr>
+<td>2018-6-29</td>
+<td>1</td>
+<td>13668</td>
+<td>3466929094656</td>
+</tr>
+<tr>
+<td>2018-6-30</td>
+<td>1</td>
+<td>18381</td>
+<td>7202283463309</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/completion date_tasks.png" /><img src="../images/bearstore/2018/06/completion date_files.png" /><img src="../images/bearstore/2018/06/completion date_bytes.png" />
+
+<hr />
+
+<h3>Usage by request hour:</h3>
+
+<table>
+<tr>
+<th>Request hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>15</td>
+<td>1</td>
+<td>31544</td>
+<td>8000811968512</td>
+</tr>
+<tr>
+<td>16</td>
+<td>1</td>
+<td>13668</td>
+<td>3466929094656</td>
+</tr>
+<tr>
+<td>17</td>
+<td>1</td>
+<td>18381</td>
+<td>7202283463309</td>
+</tr>
+<tr>
+<td>18</td>
+<td>1</td>
+<td>24550</td>
+<td>8000610484224</td>
+</tr>
+<tr>
+<td>20</td>
+<td>1</td>
+<td>11567</td>
+<td>4534087159808</td>
+</tr>
+<tr>
+<td>22</td>
+<td>3</td>
+<td>91239</td>
+<td>8257633682288</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/request hour_tasks.png" /><img src="../images/bearstore/2018/06/request hour_files.png" /><img src="../images/bearstore/2018/06/request hour_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion hour:</h3>
+
+<table>
+<tr>
+<th>Completion hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>07</td>
+<td>1</td>
+<td>70815</td>
+<td>256642300576</td>
+</tr>
+<tr>
+<td>08</td>
+<td>2</td>
+<td>34092</td>
+<td>11467920476368</td>
+</tr>
+<tr>
+<td>10</td>
+<td>1</td>
+<td>24550</td>
+<td>8000610484224</td>
+</tr>
+<tr>
+<td>18</td>
+<td>1</td>
+<td>11567</td>
+<td>4534087159808</td>
+</tr>
+<tr>
+<td>19</td>
+<td>1</td>
+<td>18381</td>
+<td>7202283463309</td>
+</tr>
+<tr>
+<td>21</td>
+<td>1</td>
+<td>31544</td>
+<td>8000811968512</td>
+</tr>
+<tr>
+<td>22</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/06/completion hour_tasks.png" /><img src="../images/bearstore/2018/06/completion hour_files.png" /><img src="../images/bearstore/2018/06/completion hour_bytes.png" />
+
+<hr />
+
+<p>Copyright &copy; Connor Williams, 2018. All rights reserved.</p></body>
+</html>

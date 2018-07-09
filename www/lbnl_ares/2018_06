@@ -1,0 +1,365 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Endpoint Usage Report</title>
+<style type="text/css">td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<a href=".."><-- main menu</a><br />
+<a href="../lbnl_ares"><-- lbnl#ares menu</a><br />
+<h2>June 2018 monthly summary for Globus endpoint "lbnl#ares" (dd1ee755-6d04-11e5-ba46-22000b92c6ec):</h2>
+
+<hr />
+
+<h3>Overall usage:</h3>
+
+<table>
+<tr>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>17</td>
+<td>1611</td>
+<td>9977478101300</td>
+</tr>
+</table>
+
+
+<hr />
+
+<h3>Usage by unique user:</h3>
+
+<table>
+<tr>
+<th>User</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>freereb@ornl.gov</td>
+<td>15</td>
+<td>66</td>
+<td>9930557978664</td>
+</tr>
+<tr>
+<td>nicholsonad@ornl.gov</td>
+<td>2</td>
+<td>1545</td>
+<td>46920122636</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/user_tasks.png" /><img src="../images/lbnl_ares/2018/06/user_files.png" /><img src="../images/lbnl_ares/2018/06/user_bytes.png" />
+
+<hr />
+
+<h3>Usage by direction:</h3>
+
+<table>
+<tr>
+<th>Direction</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>inbound</td>
+<td>16</td>
+<td>1345</td>
+<td>9938447968522</td>
+</tr>
+<tr>
+<td>outbound</td>
+<td>1</td>
+<td>266</td>
+<td>39030132778</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/direction_tasks.png" /><img src="../images/lbnl_ares/2018/06/direction_files.png" /><img src="../images/lbnl_ares/2018/06/direction_bytes.png" />
+
+<hr />
+
+<h3>Usage by target:</h3>
+
+<table>
+<tr>
+<th>Target</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>CADES-OR (57230a10-7ba2-11e7-8c3b-22000b9923ef)</td>
+<td>1</td>
+<td>266</td>
+<td>39030132778</td>
+</tr>
+<tr>
+<td>MINOS-OR (c3db4076-32a1-11e8-b90e-0ac6873fc732)</td>
+<td>16</td>
+<td>1345</td>
+<td>9938447968522</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/target_tasks.png" /><img src="../images/lbnl_ares/2018/06/target_files.png" /><img src="../images/lbnl_ares/2018/06/target_bytes.png" />
+
+<hr />
+
+<h3>Usage by transfer path:</h3>
+
+<table>
+<tr>
+<th>Transfer Path</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>MINOS-OR --> lbnl#ares</td>
+<td>16</td>
+<td>1345</td>
+<td>9938447968522</td>
+</tr>
+<tr>
+<td>lbnl#ares --> CADES-OR</td>
+<td>1</td>
+<td>266</td>
+<td>39030132778</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/transfer path_tasks.png" /><img src="../images/lbnl_ares/2018/06/transfer path_files.png" /><img src="../images/lbnl_ares/2018/06/transfer path_bytes.png" />
+
+<hr />
+
+<h3>Usage by request date:</h3>
+
+<table>
+<tr>
+<th>Request date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-06</td>
+<td>2</td>
+<td>16</td>
+<td>4264111687239</td>
+</tr>
+<tr>
+<td>2018-6-07</td>
+<td>1</td>
+<td>8</td>
+<td>1275453833995</td>
+</tr>
+<tr>
+<td>2018-6-12</td>
+<td>1</td>
+<td>8</td>
+<td>1292091847460</td>
+</tr>
+<tr>
+<td>2018-6-14</td>
+<td>3</td>
+<td>282</td>
+<td>2522758772308</td>
+</tr>
+<tr>
+<td>2018-6-19</td>
+<td>6</td>
+<td>12</td>
+<td>578070542306</td>
+</tr>
+<tr>
+<td>2018-6-26</td>
+<td>3</td>
+<td>6</td>
+<td>37101428134</td>
+</tr>
+<tr>
+<td>2018-6-27</td>
+<td>1</td>
+<td>1279</td>
+<td>7889989858</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/request date_tasks.png" /><img src="../images/lbnl_ares/2018/06/request date_files.png" /><img src="../images/lbnl_ares/2018/06/request date_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion date:</h3>
+
+<table>
+<tr>
+<th>Completion date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-6-07</td>
+<td>2</td>
+<td>16</td>
+<td>4264111687239</td>
+</tr>
+<tr>
+<td>2018-6-08</td>
+<td>1</td>
+<td>8</td>
+<td>1275453833995</td>
+</tr>
+<tr>
+<td>2018-6-12</td>
+<td>1</td>
+<td>8</td>
+<td>1292091847460</td>
+</tr>
+<tr>
+<td>2018-6-14</td>
+<td>3</td>
+<td>282</td>
+<td>2522758772308</td>
+</tr>
+<tr>
+<td>2018-6-19</td>
+<td>6</td>
+<td>12</td>
+<td>578070542306</td>
+</tr>
+<tr>
+<td>2018-6-26</td>
+<td>3</td>
+<td>6</td>
+<td>37101428134</td>
+</tr>
+<tr>
+<td>2018-6-27</td>
+<td>1</td>
+<td>1279</td>
+<td>7889989858</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/completion date_tasks.png" /><img src="../images/lbnl_ares/2018/06/completion date_files.png" /><img src="../images/lbnl_ares/2018/06/completion date_bytes.png" />
+
+<hr />
+
+<h3>Usage by request hour:</h3>
+
+<table>
+<tr>
+<th>Request hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>00</td>
+<td>1</td>
+<td>8</td>
+<td>1292091847460</td>
+</tr>
+<tr>
+<td>17</td>
+<td>12</td>
+<td>1313</td>
+<td>3106790599828</td>
+</tr>
+<tr>
+<td>18</td>
+<td>1</td>
+<td>266</td>
+<td>39030132778</td>
+</tr>
+<tr>
+<td>23</td>
+<td>3</td>
+<td>24</td>
+<td>5539565521234</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/request hour_tasks.png" /><img src="../images/lbnl_ares/2018/06/request hour_files.png" /><img src="../images/lbnl_ares/2018/06/request hour_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion hour:</h3>
+
+<table>
+<tr>
+<th>Completion hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>02</td>
+<td>1</td>
+<td>8</td>
+<td>1275453833995</td>
+</tr>
+<tr>
+<td>03</td>
+<td>1</td>
+<td>8</td>
+<td>1292091847460</td>
+</tr>
+<tr>
+<td>05</td>
+<td>1</td>
+<td>8</td>
+<td>1990277800760</td>
+</tr>
+<tr>
+<td>06</td>
+<td>1</td>
+<td>8</td>
+<td>2273833886479</td>
+</tr>
+<tr>
+<td>17</td>
+<td>10</td>
+<td>1303</td>
+<td>492193924437</td>
+</tr>
+<tr>
+<td>18</td>
+<td>2</td>
+<td>268</td>
+<td>182800696386</td>
+</tr>
+<tr>
+<td>23</td>
+<td>1</td>
+<td>8</td>
+<td>2470826111783</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_ares/2018/06/completion hour_tasks.png" /><img src="../images/lbnl_ares/2018/06/completion hour_files.png" /><img src="../images/lbnl_ares/2018/06/completion hour_bytes.png" />
+
+<hr />
+
+<p>Copyright &copy; Connor Williams, 2018. All rights reserved.</p></body>
+</html>

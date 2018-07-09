@@ -1,0 +1,395 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Endpoint Usage Report</title>
+<style type="text/css">td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<a href=".."><-- main menu</a><br />
+<a href="../lbnl_lrc"><-- lbnl#lrc menu</a><br />
+<h2>July 2018 monthly summary for Globus endpoint "lbnl#lrc" (b2e0c23d-6d04-11e5-ba46-22000b92c6ec):</h2>
+
+<hr />
+
+<h3>Overall usage:</h3>
+
+<table>
+<tr>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>30</td>
+<td>137642</td>
+<td>569838238333</td>
+</tr>
+</table>
+
+
+<hr />
+
+<h3>Usage by unique user:</h3>
+
+<table>
+<tr>
+<th>User</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>lizpeterson@lbl.gov</td>
+<td>2</td>
+<td>2</td>
+<td>6911345324</td>
+</tr>
+<tr>
+<td>ntamura@lbl.gov</td>
+<td>25</td>
+<td>137443</td>
+<td>562603690835</td>
+</tr>
+<tr>
+<td>yaierken@lbl.gov</td>
+<td>3</td>
+<td>197</td>
+<td>323202174</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/user_tasks.png" /><img src="../images/lbnl_lrc/2018/07/user_files.png" /><img src="../images/lbnl_lrc/2018/07/user_bytes.png" />
+
+<hr />
+
+<h3>Usage by direction:</h3>
+
+<table>
+<tr>
+<th>Direction</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>inbound</td>
+<td>26</td>
+<td>137444</td>
+<td>562603941058</td>
+</tr>
+<tr>
+<td>outbound</td>
+<td>4</td>
+<td>198</td>
+<td>7234297275</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/direction_tasks.png" /><img src="../images/lbnl_lrc/2018/07/direction_files.png" /><img src="../images/lbnl_lrc/2018/07/direction_bytes.png" />
+
+<hr />
+
+<h3>Usage by target:</h3>
+
+<table>
+<tr>
+<th>Target</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>NERSC Edison (b9d02196-6d04-11e5-ba46-22000b92c6ec)</td>
+<td>2</td>
+<td>2</td>
+<td>6911345324</td>
+</tr>
+<tr>
+<td>detdata (c83ab920-763c-11e7-8b60-22000b9923ef)</td>
+<td>25</td>
+<td>137443</td>
+<td>562603690835</td>
+</tr>
+<tr>
+<td>unknown</td>
+<td>3</td>
+<td>197</td>
+<td>323202174</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/target_tasks.png" /><img src="../images/lbnl_lrc/2018/07/target_files.png" /><img src="../images/lbnl_lrc/2018/07/target_bytes.png" />
+
+<hr />
+
+<h3>Usage by transfer path:</h3>
+
+<table>
+<tr>
+<th>Transfer Path</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>lbnl#lrc --> NERSC Edison</td>
+<td>2</td>
+<td>2</td>
+<td>6911345324</td>
+</tr>
+<tr>
+<td>lbnl#lrc --> unknown</td>
+<td>2</td>
+<td>196</td>
+<td>322951951</td>
+</tr>
+<tr>
+<td>detdata --> lbnl#lrc</td>
+<td>25</td>
+<td>137443</td>
+<td>562603690835</td>
+</tr>
+<tr>
+<td>unknown --> lbnl#lrc</td>
+<td>1</td>
+<td>1</td>
+<td>250223</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/transfer path_tasks.png" /><img src="../images/lbnl_lrc/2018/07/transfer path_files.png" /><img src="../images/lbnl_lrc/2018/07/transfer path_bytes.png" />
+
+<hr />
+
+<h3>Usage by request date:</h3>
+
+<table>
+<tr>
+<th>Request date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-7-02</td>
+<td>17</td>
+<td>116747</td>
+<td>478143756454</td>
+</tr>
+<tr>
+<td>2018-7-03</td>
+<td>10</td>
+<td>20762</td>
+<td>91389026236</td>
+</tr>
+<tr>
+<td>2018-7-04</td>
+<td>1</td>
+<td>100</td>
+<td>170260319</td>
+</tr>
+<tr>
+<td>2018-7-05</td>
+<td>2</td>
+<td>33</td>
+<td>135195324</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/request date_tasks.png" /><img src="../images/lbnl_lrc/2018/07/request date_files.png" /><img src="../images/lbnl_lrc/2018/07/request date_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion date:</h3>
+
+<table>
+<tr>
+<th>Completion date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-7-02</td>
+<td>17</td>
+<td>116747</td>
+<td>478143756454</td>
+</tr>
+<tr>
+<td>2018-7-03</td>
+<td>10</td>
+<td>20762</td>
+<td>91389026236</td>
+</tr>
+<tr>
+<td>2018-7-04</td>
+<td>1</td>
+<td>100</td>
+<td>170260319</td>
+</tr>
+<tr>
+<td>2018-7-05</td>
+<td>2</td>
+<td>33</td>
+<td>135195324</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/completion date_tasks.png" /><img src="../images/lbnl_lrc/2018/07/completion date_files.png" /><img src="../images/lbnl_lrc/2018/07/completion date_bytes.png" />
+
+<hr />
+
+<h3>Usage by request hour:</h3>
+
+<table>
+<tr>
+<th>Request hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>00</td>
+<td>3</td>
+<td>130</td>
+<td>378405791</td>
+</tr>
+<tr>
+<td>16</td>
+<td>3</td>
+<td>43048</td>
+<td>175953505472</td>
+</tr>
+<tr>
+<td>17</td>
+<td>7</td>
+<td>60095</td>
+<td>245958274804</td>
+</tr>
+<tr>
+<td>18</td>
+<td>5</td>
+<td>115</td>
+<td>7374286888</td>
+</tr>
+<tr>
+<td>19</td>
+<td>1</td>
+<td>40</td>
+<td>163873120</td>
+</tr>
+<tr>
+<td>20</td>
+<td>3</td>
+<td>19004</td>
+<td>77737315508</td>
+</tr>
+<tr>
+<td>22</td>
+<td>6</td>
+<td>15175</td>
+<td>62129187770</td>
+</tr>
+<tr>
+<td>23</td>
+<td>2</td>
+<td>35</td>
+<td>143388980</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/request hour_tasks.png" /><img src="../images/lbnl_lrc/2018/07/request hour_files.png" /><img src="../images/lbnl_lrc/2018/07/request hour_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion hour:</h3>
+
+<table>
+<tr>
+<th>Completion hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>00</td>
+<td>2</td>
+<td>124</td>
+<td>268584191</td>
+</tr>
+<tr>
+<td>02</td>
+<td>1</td>
+<td>6</td>
+<td>109821600</td>
+</tr>
+<tr>
+<td>16</td>
+<td>2</td>
+<td>7890</td>
+<td>31820211628</td>
+</tr>
+<tr>
+<td>17</td>
+<td>3</td>
+<td>20096</td>
+<td>82089251632</td>
+</tr>
+<tr>
+<td>18</td>
+<td>7</td>
+<td>30034</td>
+<td>129947283820</td>
+</tr>
+<tr>
+<td>19</td>
+<td>4</td>
+<td>45278</td>
+<td>185593193204</td>
+</tr>
+<tr>
+<td>20</td>
+<td>1</td>
+<td>2959</td>
+<td>12084016924</td>
+</tr>
+<tr>
+<td>21</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>22</td>
+<td>5</td>
+<td>15160</td>
+<td>62067735350</td>
+</tr>
+<tr>
+<td>23</td>
+<td>4</td>
+<td>16095</td>
+<td>65858139984</td>
+</tr>
+</table>
+
+
+<img src="../images/lbnl_lrc/2018/07/completion hour_tasks.png" /><img src="../images/lbnl_lrc/2018/07/completion hour_files.png" /><img src="../images/lbnl_lrc/2018/07/completion hour_bytes.png" />
+
+<hr />
+
+<p>Copyright &copy; Connor Williams, 2018. All rights reserved.</p></body>
+</html>

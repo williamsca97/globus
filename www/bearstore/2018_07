@@ -1,0 +1,215 @@
+<!doctype HTML>
+<html>
+<head>
+<title>Endpoint Usage Report</title>
+<style type="text/css">td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<a href=".."><-- main menu</a><br />
+<a href="../bearstore"><-- bearstore menu</a><br />
+<h2>July 2018 monthly summary for Globus endpoint "bearstore" (3e3352d0-115e-11e6-a749-22000bf2d559):</h2>
+
+<hr />
+
+<h3>Overall usage:</h3>
+
+<table>
+<tr>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<hr />
+
+<h3>Usage by unique user:</h3>
+
+<table>
+<tr>
+<th>User</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>jbajo-franklin@lbl.gov</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/user_tasks.png" /><img src="../images/bearstore/2018/07/user_files.png" /><img src="../images/bearstore/2018/07/user_bytes.png" />
+
+<hr />
+
+<h3>Usage by direction:</h3>
+
+<table>
+<tr>
+<th>Direction</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>outbound</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/direction_tasks.png" /><img src="../images/bearstore/2018/07/direction_files.png" /><img src="../images/bearstore/2018/07/direction_bytes.png" />
+
+<hr />
+
+<h3>Usage by target:</h3>
+
+<table>
+<tr>
+<th>Target</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>unknown</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/target_tasks.png" /><img src="../images/bearstore/2018/07/target_files.png" /><img src="../images/bearstore/2018/07/target_bytes.png" />
+
+<hr />
+
+<h3>Usage by transfer path:</h3>
+
+<table>
+<tr>
+<th>Transfer Path</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>bearstore --> unknown</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/transfer path_tasks.png" /><img src="../images/bearstore/2018/07/transfer path_files.png" /><img src="../images/bearstore/2018/07/transfer path_bytes.png" />
+
+<hr />
+
+<h3>Usage by request date:</h3>
+
+<table>
+<tr>
+<th>Request date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-7-05</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/request date_tasks.png" /><img src="../images/bearstore/2018/07/request date_files.png" /><img src="../images/bearstore/2018/07/request date_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion date:</h3>
+
+<table>
+<tr>
+<th>Completion date</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>2018-7-05</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/completion date_tasks.png" /><img src="../images/bearstore/2018/07/completion date_files.png" /><img src="../images/bearstore/2018/07/completion date_bytes.png" />
+
+<hr />
+
+<h3>Usage by request hour:</h3>
+
+<table>
+<tr>
+<th>Request hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>16</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/request hour_tasks.png" /><img src="../images/bearstore/2018/07/request hour_files.png" /><img src="../images/bearstore/2018/07/request hour_bytes.png" />
+
+<hr />
+
+<h3>Usage by completion hour:</h3>
+
+<table>
+<tr>
+<th>Completion hour</th>
+<th>Tasks</th>
+<th>Files</th>
+<th>Bytes</th>
+</tr>
+<tr>
+<td>16</td>
+<td>7</td>
+<td>12072</td>
+<td>40848871424</td>
+</tr>
+</table>
+
+
+<img src="../images/bearstore/2018/07/completion hour_tasks.png" /><img src="../images/bearstore/2018/07/completion hour_files.png" /><img src="../images/bearstore/2018/07/completion hour_bytes.png" />
+
+<hr />
+
+<p>Copyright &copy; Connor Williams, 2018. All rights reserved.</p></body>
+</html>
